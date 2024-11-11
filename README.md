@@ -80,7 +80,7 @@ If you don't have any of these tools installed, follow the provided links to ins
     mvn spring-boot:run
    ```
 
-Open any browser and type
+Open any browser and type 
 
   ```sh
     localhost:8080
